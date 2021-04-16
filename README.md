@@ -1,5 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=kainangv&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainangv&layout=compact&theme=radical">
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/kainangv/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kainangv&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/kainangv/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kainangv&repo=convoychat" />
+</a>
