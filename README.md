@@ -8,7 +8,7 @@
 ##
 
 <a href="https://github.com/kainangv/">
-  <img align="center" width="54%" src="https://github-readme-stats.vercel.app/api?username=kainangv&show_icons=true&theme=radical" />
+  <img align="center" width="54%" src="https://github-readme-stats.vercel.app/api?username=KainanGV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/kainangv/">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainangv&layout=compact&theme=radical" />
