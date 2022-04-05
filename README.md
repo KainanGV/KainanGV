@@ -2,7 +2,7 @@
 
 ##
 
-- 👨‍💻 I'm working developer full-stack Jr
+- 👨‍💻 I'm working developer Full-Stack Jr
 - 📩 Contato: kainangabriel2019@gmail.com
 - 😄 Pronouns: ele/dele
 ##
@@ -30,5 +30,11 @@
 ##
 
 ![Snake animation](https://github.com/KainanGV/KainanGV/blob/output/github-contribution-grid-snake.svg)
+
+##
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KainanGV/KainanGV/)](https://github.com/KainanGV/KainanGV)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kainan-gabriel-0a26a6191/)](https://www.linkedin.com/in/kainan-gabriel-0a26a6191/)
+
 
 
