@@ -2,7 +2,7 @@
 
 ##
 
-- 👨‍💻 I'm working developer Full-Stack Jr
+- 👨‍💻 I'm developer Full-Stack Mid Level (Pleno)
 - 📩 Contato: kainangabriel2019@gmail.com
 - 😄 Pronouns: ele/dele
 ##
