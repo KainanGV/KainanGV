@@ -4,7 +4,6 @@
 
 - 👨‍💻 I'm developer Full-Stack Mid Level (Pleno)
 - 📩 Contato: kainangabriel2019@gmail.com
-- 😄 Pronouns: ele/dele
 ##
 
 <a href="https://github.com/kainangv/">
