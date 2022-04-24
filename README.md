@@ -2,7 +2,7 @@
 
 ##
 
-- 👨‍💻 I'm developer Full-Stack Mid Level (Pleno)
+- 👨‍💻 I'm developer Full-Stac (Junior)
 - 📩 Contato: kainangabriel2019@gmail.com
 ##
 
