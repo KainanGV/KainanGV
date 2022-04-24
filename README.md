@@ -2,7 +2,7 @@
 
 ##
 
-- 👨‍💻 I'm developer Full-Stac (Junior)
+- 👨‍💻 I'm developer Full-Stack (Junior)
 - 📩 Contato: kainangabriel2019@gmail.com
 ##
 
