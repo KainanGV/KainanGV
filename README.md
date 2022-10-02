@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com/?font=consolas&size=24&duration=4000&color=25D1E8&center=true&lines=Software+Engineer+Mid+Level...;constantly+evolving!"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com/?font=consolas&size=24&duration=4000&color=25D1E8&center=true&lines=Software+Engineer+Mid+Level...;Constantly+evolving!"></a>
 </p>
 
 <div align="center">
