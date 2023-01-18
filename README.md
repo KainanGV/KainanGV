@@ -90,16 +90,6 @@ These are some of the technologies and tools that I work with:
   </div>
 </details>
 
-## 🚀 Contribution Chart & Snake Game
-
-<div align="center">
-  <a href="https://github.com/kainangv/github-readme-activity-graph">
-    <p>
-      <img width="850em" src="https://activity-graph.herokuapp.com/graph?username=kainangv&theme=dracula">
-    </p>
-  </a>
-</div>
-
 <!-- Snake Game -->
 
 <div align="center">
