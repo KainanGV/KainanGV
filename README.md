@@ -22,7 +22,7 @@
 <div>
   <br>
   <p>
-    I am a young student and passionate about technology with the ability to <strong>always learn</strong>
+    I am a young student and passionate about technology with the ability to <strong>always learn.</strong>
   </p>
   <p>
     We have fundamentals with development in <strong>Javascript, ReactJS, Angular, React Native, NodeJS, Java Spring Boot among other</strong> technologies, using them to build cutting edge applications and exploiting these to reach prominence.
