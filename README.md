@@ -1,101 +1,97 @@
-<div align="center">
-  <h1>
-    Hi, Welcome to my profile
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h1>
-</div>
+# Hi, I'm Kainan Gabriel 👋
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com/?font=consolas&size=24&duration=4000&color=25D1E8&center=true&lines=Software+Engineer+Mid+Level...;Constantly+evolving!"></a>
-</p>
+I am a **Full-Stack Software Engineer** and **Cloud Solutions Architect** with extensive experience in building robust, scalable financial solutions. Currently, I work at **BTG Pactual**, focusing on high-performance systems in the financial domain.
 
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/kainan-gabriel-0a26a6191/" target="_blank"><img width="50em" src="./icons/linkedin.png" target="_blank"></a>
-  <a href="https://discord.com/" target="_blank"><img width="50em" src="./icons/discord.png" target="_blank"></a>
-  <a href = "mailto:kainangabriel2019@gmail.com"><img width="50em" src="./icons/gmail.png" target="_blank"></a>
-  <br>
-</div>
+---
 
-## 💬 About me
+## 💼 Professional Summary
 
-<div>
-  <br>
-  <p>
-    I am a young student and passionate about technology with the ability to <strong>always learn.</strong>
-  </p>
-  <p>
-    We have fundamentals with development in <strong>Javascript, ReactJS, Angular, React Native, NodeJS, Java Spring Boot among other</strong> technologies, using them to build cutting edge applications and exploiting these to reach prominence.
-  </p>
-  <p> 
-    I believe that my agility in learning and my commitment to being successful will enable me to add value to the Company. In addition, I always look for challenges to leverage my performance towards excellence.
-  </p>
-  <br>
-</div>
+I have experience working across multiple industries with a strong focus on:
 
-## 🔥 Frequency Statistics
+- **System Design and Implementation**: Developing solutions to handle high data volumes with a focus on scalability and performance.
+- **Cloud Architecture**: Implementing cloud-based systems using AWS, Docker, Kubernetes, and more.
+- **DevOps Practices**: Ensuring streamlined CI/CD pipelines, high availability, and efficient development cycles with tools like Azure DevOps, Terraform, and Ansible.
 
-<div align="center">
-  <br>
-  <a href="https://github.com/kainangv">
-    <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=kainangv&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-    </p>
-  </a>
-  <br>
-</div>
+---
 
-## ⚡ Technologies
+## 💡 Key Skills
 
-These are some of the technologies and tools that I work with:
+### Languages & Frameworks
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+### Front-End Development
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=007ACC)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-## 📊 Github Stats
+---
 
-<details> 
-  <summary>💻 Stats profile</summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/kainangv/github-readme-streak-stats">
-      <p>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kainangv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainangv&layout=compact&langs_count=7&theme=dracula"/>
-      </p>
-    </a>
-  </div>
-</details>
+## 🚀 Experience
 
-<!-- Snake Game -->
+### **BTG Pactual** (Aug 2023 - Present)
+- **Position**: Software Engineer
+- **Role**: Developing scalable financial solutions for the Corporate Cash team, designing robust architectures using microservices and event-driven approaches.
+- **Technologies**: Node.js, Elixir, C#, PostgreSQL, Kubernetes, Docker
 
-<div align="center">
-  <a href="https://github.com/cssgabriel/kainangv/blob/output/github-contribution-grid-snake.svg">
-    <p>
-      <img width="860em" src="https://github.com/KainanGV/KainanGV/blob/output/github-contribution-grid-snake.svg">
-    </p>
-  </a>
-</div>
+### **Squadra Digital** (Jul 2022 - Aug 2023)
+- **Position**: Software Architect
+- **Role**: Full-stack development of SPAs and DevOps solutions, working with Java, Spring Boot, Node.js, Docker, and AWS services.
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kainangv&theme=dracula&hide_border=true)](https://github.com/kainangv)
+
+![Kainan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kainangv&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainangv&layout=compact&langs_count=7&theme=dracula)
+
+---
+
+## 📚 Education
+
+- **MBA in Software Engineering** (Dec 2023 - Jul 2025) - Universidade de São Paulo
+- **BSc in Computer Science** (Jan 2018 - Dec 2022) - Universidade Cruzeiro do Sul
+
+---
+
+## 📄 Certifications
+
+- **AWS Certified Solutions Architect - Associate**
+- **Rocketseat Node.js Track**
+- **Ignite Node, React & React Native** (Jan 2022 - Dec 2023)
+
+---
+
+## 🐍 GitHub Contributions Snake
+
+![GitHub Contribution Snake](https://github.com/KainanGV/KainanGV/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kainan-gabriel-0a26a6191/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kainangabriel2019@gmail.com)
+
