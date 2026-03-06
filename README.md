@@ -47,13 +47,6 @@ I have experience working across multiple industries with a strong focus on:
 
 ---
 
-## 🚀 Experience
-
-### **BTG Pactual** (Aug 2023 - Present)
-- **Position**: Software Engineer
-- **Role**: Developing scalable financial solutions for the Corporate Cash team, designing robust architectures using microservices and event-driven approaches.
-- **Technologies**: Node.js, Elixir, C#, PostgreSQL, Kubernetes, Docker
-
 ---
 
 ## 📊 GitHub Stats
