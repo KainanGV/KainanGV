@@ -54,10 +54,6 @@ I have experience working across multiple industries with a strong focus on:
 - **Role**: Developing scalable financial solutions for the Corporate Cash team, designing robust architectures using microservices and event-driven approaches.
 - **Technologies**: Node.js, Elixir, C#, PostgreSQL, Kubernetes, Docker
 
-### **Squadra Digital** (Jul 2022 - Aug 2023)
-- **Position**: Software Architect
-- **Role**: Full-stack development of SPAs and DevOps solutions, working with Java, Spring Boot, Node.js, Docker, and AWS services.
-
 ---
 
 ## 📊 GitHub Stats
