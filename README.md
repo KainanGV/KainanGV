@@ -77,10 +77,3 @@ I have experience working across multiple industries with a strong focus on:
 
 ![GitHub Contribution Snake](https://github.com/KainanGV/KainanGV/blob/output/github-contribution-grid-snake.svg)
 
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kainan-gabriel-0a26a6191/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kainangabriel2019@gmail.com)
-
