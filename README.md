@@ -5,14 +5,14 @@
 
 <!-- Animated typing tagline -->
 <p align="center">
-  <a href="https://github.com/KainanMe">
+  <a href="https://github.com/ItsKainan">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;Distributed+Systems+%26+Microservices;Cloud+Architecture+%E2%80%94+AWS+%26+Azure;Event-Driven+%26+Resilient+Systems;Engineering+with+LLMs+in+the+loop" alt="typing" />
   </a>
 </p>
 
 <!-- Status badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KainanMe&label=Profile%20views&color=8E2DE2&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ItsKainan&label=Profile%20views&color=8E2DE2&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-A855F7?style=flat-square" alt="focus" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-4A00E0?style=flat-square" alt="open to" />
 </p>
@@ -83,16 +83,16 @@ A **Full-Stack Software Engineer** passionate about distributed systems, cloud a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KainanMe&theme=dracula&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsKainan&theme=dracula&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KainanMe&theme=dracula" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsKainan&theme=dracula" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KainanMe&theme=dracula" alt="stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KainanMe&theme=dracula" alt="repos per language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsKainan&theme=dracula" alt="stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsKainan&theme=dracula" alt="repos per language" height="180" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ A **Full-Stack Software Engineer** passionate about distributed systems, cloud a
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KainanMe&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsKainan&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ A **Full-Stack Software Engineer** passionate about distributed systems, cloud a
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KainanMe&theme=react-dark&hide_border=true&area=true&radius=8" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsKainan&theme=react-dark&hide_border=true&area=true&radius=8" alt="activity graph" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ A **Full-Stack Software Engineer** passionate about distributed systems, cloud a
 ## 🐍 Contributions Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KainanMe/KainanMe/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/ItsKainan/ItsKainan/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
 ---
@@ -129,10 +129,8 @@ A **Full-Stack Software Engineer** passionate about distributed systems, cloud a
 
 ---
 
-## 📚 Education & Certifications
+## 📄 Certifications
 
-- **MBA in Software Engineering** — University of São Paulo (USP)
-- **BSc in Computer Science** — Cruzeiro do Sul University
 - **AWS Certified Solutions Architect — Associate** (SAA-C03)
 - **AWS Certified Developer — Associate** (DVA-C02)
 - **Rocketseat Ignite** — Node, React & React Native
