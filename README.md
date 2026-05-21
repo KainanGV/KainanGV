@@ -1,6 +1,6 @@
 <!-- Capsule banner header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Kainan%20Gabriel&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Distributed%20Systems%20%E2%80%A2%20Cloud%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=62&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Kainan&fontSize=80&fontAlignY=38&fontColor=ffffff&desc=Distributed%20Systems%20%E2%80%A2%20Cloud%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=62&animation=twinkling" alt="header" />
 </p>
 
 <!-- Animated typing tagline -->
